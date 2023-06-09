@@ -15,9 +15,10 @@ python -m venv venv
 ```shell
 source\venv\bin\activate
 ```
-### Установка Scrapy:
+### Установка Scrapy и Scrapy_Selenium:
 ```shell
 pip install scrapy
+pip install scrapy-selenium
 ```
 
 ### Склонировать репозиторий с GitLab:
